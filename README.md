@@ -5,7 +5,7 @@ This project aims to connect to the On board diagnostics of a Honda NC750 to sho
 Code yet not working.
 
 
-# Todo
+# TODO
 
 * Upload hardware scheme
 * Upload connector scheme
